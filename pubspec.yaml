@@ -13,17 +13,17 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
-  collection: ^1.19.1
-  wakelock_plus: ^1.2.11
-  path_provider: ^2.1.5
-  visibility_detector: ^0.4.0+2
-  flutter_widget_from_html_core: ^0.16.0
+  collection: 1.19.1
+  wakelock_plus: 1.2.11
+  path_provider: 2.1.5
+  visibility_detector: 0.4.0+2
+  flutter_widget_from_html_core: 0.16.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  lint: ^2.1.2
-  flutter_lints: ^2.0.3
+  lint: 2.1.2
+  flutter_lints: 2.0.3
 
 flutter:
   plugin:
